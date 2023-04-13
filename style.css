@@ -42,6 +42,7 @@ body {
     flex-direction: row;
     height: 100vh;
     padding: 0;
+    gap: 32px;
   }
 
   div.card.card-special {
